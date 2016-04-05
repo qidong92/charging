@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1459672108 source:d:\charging\thestringtest\main.cpp
+	<iostream>
+	<stdio.h>
+
