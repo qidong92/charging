@@ -1,0 +1,6 @@
+#ignore - the file begin with . is ignored
+
+
+
+**/**/bin/**
+**/**/obj/**
